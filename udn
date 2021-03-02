@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1456" startPos="1751" endPos="1751" selMode="0" lang="PHP" encoding="-1" filename="F:\WebServers\denwer-master\home\localhost\www\udn\index.php" backupFilePath="" originalFileLastModifTimestamp="-1083696640" originalFileLastModifTimestampHigh="30871339" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="133421656" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1372" startPos="697" endPos="697" selMode="0" lang="PHP" encoding="-1" filename="F:\WebServers\denwer-master\home\localhost\www\udn\loadBD.php" backupFilePath="" originalFileLastModifTimestamp="582182656" originalFileLastModifTimestampHigh="30871214" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="3228672" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="420" startPos="300" endPos="300" selMode="0" lang="PHP" encoding="-1" filename="F:\WebServers\denwer-master\home\localhost\www\udn\createBD.php" backupFilePath="" originalFileLastModifTimestamp="555118592" originalFileLastModifTimestampHigh="30870998" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

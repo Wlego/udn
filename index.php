@@ -7,8 +7,9 @@
 
 </head> 
 <body>
-    <div class="clear"><br/></div>
-<div class="container">
+	
+	<div class="clear"><br/></div>
+	<div class="container">
 	<div class="col-sm-8">  
 		<form  action="" method="post">
 			<input type="text" class="form-control" id="Search" name="Search" placeholder="введите строку для поиска">
@@ -25,7 +26,13 @@
 		$postId=mysqli_query($CONNECT, "SELECT `postId`,`body` FROM comments WHERE `body` LIKE '%$search%'");	
 		while (($row=mysqli_fetch_assoc($postId))!=false){	
 			$title=mysqli_fetch_assoc(mysqli_query($CONNECT, "SELECT `title` FROM posts WHERE `id` = '".$row['postId']."'"));			
-			echo 'запись: \n "'.$title["title"].'" \n\n комментарий: \n "'.$row["body"].'" \n\n\n\n ';	
+			echo '
+запись:
+	'.$title["title"].'
+			
+комментарий:
+	'.$row["body"].'
+			';	
 		}
 	}
 	else {echo 'Запрос на поиск не может быть меньше 3-х символов!';}
